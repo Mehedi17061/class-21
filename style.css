@@ -1,0 +1,27 @@
+
+.card-div .card  p{
+    font-size: 18px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    /* bottom: 1.25rem; */
+    left:15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+    top:43%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    font-size: 1.8rem;
+}
+
